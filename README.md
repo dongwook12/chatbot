@@ -6,7 +6,7 @@
 
 * 기울기 *
 ** 두껍게 **
-![food-1216048_640](https://user-images.githubusercontent.com/88136823/127470110-1ca03e52-1b89-4e8f-a22e-36ad558c0fbe.jpg){:width="200" height="300"}
+![food-1216048_640](https://user-images.githubusercontent.com/88136823/127470110-1ca03e52-1b89-4e8f-a22e-36ad558c0fbe.jpg){:width="100" height="100"}
 
 ---
 
