@@ -12,7 +12,7 @@
 
 ## Welcome to 김동욱 Pages
 
-You can use the [editor on GitHub](https://github.com/dongwook12/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [김동욱 홈페이지](https://dongwook12.github.io/chatbot/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
