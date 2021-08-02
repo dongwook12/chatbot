@@ -7,7 +7,7 @@
 *기울기*
 **두껍게**
 
-![image](https://user-images.githubusercontent.com/88136823/127772236-3fa6fa7a-ea48-4a76-b5e3-e83b13008a2e.png){:width="1000" height="800"}
+![image](https://user-images.githubusercontent.com/88136823/127772236-3fa6fa7a-ea48-4a76-b5e3-e83b13008a2e.png){:width="1000" height="470"}
 
 ---
 
