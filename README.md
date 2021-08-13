@@ -7,7 +7,7 @@
 
 **안녕하세요 저는 Mobility에 대해 조사하고 연구한 것을 알려주는**
 
-![image](http://img.segye.com/content/image/2020/02/12/20200212513765.jpg)
+![image](https://user-images.githubusercontent.com/88136823/129297968-0a379212-f9a0-4097-a5f8-aee750bcd369.png)
 ---
 
 ![](https://user-images.githubusercontent.com/88136823/129297070-66f72551-a16c-4baa-a96d-d1b95f524563.png)
