@@ -13,9 +13,9 @@
 
 첫번째로 자동차 원리에 대한 것 입니다.
 
-![](https://user-images.githubusercontent.com/88136823/129297443-f8731b73-8dc6-49fc-bedf-a121da0ffb58.png)
+![](https://user-images.githubusercontent.com/88136823/129301322-347e48c4-4573-49ac-8a80-26193f453487.png)
 
-[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129297443-f8731b73-8dc6-49fc-bedf-a121da0ffb58.png)
+[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129301322-347e48c4-4573-49ac-8a80-26193f453487.png)
 
 ---
 
