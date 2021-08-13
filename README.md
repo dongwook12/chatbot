@@ -21,9 +21,9 @@
 
 두번째로 자동차의 위험성에 대한 것 입니다.
 
-![](https://user-images.githubusercontent.com/88136823/129299023-5a17ad09-eed9-4e61-b466-f3a80b961833.png){:width="1000"}
+![](https://user-images.githubusercontent.com/88136823/129301363-13ff30a9-3388-49e2-8240-0acdf802c710.png)
 
-[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129299750-9a549511-a777-4988-af69-7bc4896c19f2.png)
+[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129301363-13ff30a9-3388-49e2-8240-0acdf802c710.png)
 
 ---
 
