@@ -11,7 +11,7 @@
 ---
 
 첫번째로 자동차 원리에 대한 것 입니다.
-![](https://user-images.githubusercontent.com/88136823/129297295-696a0cff-55a5-49d3-90cd-2f1a3f062a91.png)
+![](https://user-images.githubusercontent.com/88136823/129297443-f8731b73-8dc6-49fc-bedf-a121da0ffb58.png)
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 세번째로 자동차의 디자인에 대한 것 입니다.
-![]()
+![](https://user-images.githubusercontent.com/88136823/129297295-696a0cff-55a5-49d3-90cd-2f1a3f062a91.png)
 
 ## Welcome to 임호 Mobility Pages
 
