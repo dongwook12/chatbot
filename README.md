@@ -31,7 +31,7 @@
 
 ![](https://user-images.githubusercontent.com/88136823/129296874-fdc83f9b-774d-48aa-bb4a-b9353950b6ae.png)
 
-[이미지를 크게 보고 싶으시면 눌러주세요~]()
+[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129296874-fdc83f9b-774d-48aa-bb4a-b9353950b6ae.png)
 
 ---
 
