@@ -8,7 +8,8 @@
 **안녕하세요 저는 Mobility에 대해 조사하고 연구한 것을 알려주는**
 
 ![image](https://user-images.githubusercontent.com/88136823/127772236-3fa6fa7a-ea48-4a76-b5e3-e83b13008a2e.png){:width="1000" height="470"}
-![image](https://user-images.githubusercontent.com/88136823/129294592-d3402152-29d4-4ab1-8bc6-c523f9c32353.png)
+![image](https://user-images.githubusercontent.com/88136823/129294592-d3402152-29d4-4ab1-8bc6-c523f9c32353.png){:width="100" height="200"}
+
 
 ---
 
