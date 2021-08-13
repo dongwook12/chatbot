@@ -9,12 +9,13 @@
 
 ![image](https://user-images.githubusercontent.com/88136823/129297968-0a379212-f9a0-4097-a5f8-aee750bcd369.png)
 
-[이미지를 크게 보고 싶으시면 눌러주세요~]()
 ---
 
 첫번째로 자동차 원리에 대한 것 입니다.
 
 ![](https://user-images.githubusercontent.com/88136823/129297443-f8731b73-8dc6-49fc-bedf-a121da0ffb58.png)
+
+[이미지를 크게 보고 싶으시면 눌러주세요~]()
 
 ---
 
@@ -22,6 +23,7 @@
 
 ![](https://user-images.githubusercontent.com/88136823/129299023-5a17ad09-eed9-4e61-b466-f3a80b961833.png){:width="1000"}
 
+[이미지를 크게 보고 싶으시면 눌러주세요~]()
 
 ---
 
@@ -29,11 +31,15 @@
 
 ![](https://user-images.githubusercontent.com/88136823/129296874-fdc83f9b-774d-48aa-bb4a-b9353950b6ae.png)
 
+[이미지를 크게 보고 싶으시면 눌러주세요~]()
+
 ---
 
 네번째로 자동차의 디자인에 대한 것 입니다.
 
 ![](https://user-images.githubusercontent.com/88136823/129297295-696a0cff-55a5-49d3-90cd-2f1a3f062a91.png)
+
+[이미지를 크게 보고 싶으시면 눌러주세요~]()
 
 ## Welcome to 임호 Mobility Pages
 
