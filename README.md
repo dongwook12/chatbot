@@ -10,7 +10,7 @@
 ![image](http://img.segye.com/content/image/2020/02/12/20200212513765.jpg)
 ---
 
-![](https://user-images.githubusercontent.com/88136823/129294592-d3402152-29d4-4ab1-8bc6-c523f9c32353.png){:width="400" height="600"}
+![](https://user-images.githubusercontent.com/88136823/129294592-d3402152-29d4-4ab1-8bc6-c523f9c32353.png){:width="400" height="700"}
 
 ---
 
