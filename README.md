@@ -18,7 +18,8 @@
 
 두번째로 자동차의 위험성에 대한 것 입니다.
 
-![](https://user-images.githubusercontent.com/88136823/129299023-5a17ad09-eed9-4e61-b466-f3a80b961833.png)
+![](https://user-images.githubusercontent.com/88136823/129299023-5a17ad09-eed9-4e61-b466-f3a80b961833.png){:width="700"}
+
 
 ---
 
