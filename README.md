@@ -5,7 +5,7 @@
 ---
 
 
-**안녕하세요 저는 Mobility에 대해 조사하고 연구한 것을 알려주는 임호 Mobility팀 입니다.**
+**안녕하세요 저는 Mobility에 대해 조사하고 연구한 것을 알려주는 임호 Mobility입니다.**
 
 ![image](https://user-images.githubusercontent.com/88136823/129297968-0a379212-f9a0-4097-a5f8-aee750bcd369.png)
 ---
