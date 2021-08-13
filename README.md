@@ -21,7 +21,7 @@
 ---
 
 세번째로 자동차 판매 순위에 대한 것 입니다.
-![]()
+![](https://user-images.githubusercontent.com/88136823/129296874-fdc83f9b-774d-48aa-bb4a-b9353950b6ae.png)
 
 ---
 
