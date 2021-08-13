@@ -8,6 +8,8 @@
 **안녕하세요 저는 Mobility에 대해 조사하고 연구한 것을 알려주는 임호 Mobility입니다.**
 
 ![image](https://user-images.githubusercontent.com/88136823/129297968-0a379212-f9a0-4097-a5f8-aee750bcd369.png)
+
+[이미지를 크게 보고 싶으시면 눌러주세요~]()
 ---
 
 첫번째로 자동차 원리에 대한 것 입니다.
