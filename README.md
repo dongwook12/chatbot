@@ -15,7 +15,7 @@
 
 ![](https://user-images.githubusercontent.com/88136823/129301322-347e48c4-4573-49ac-8a80-26193f453487.png)
 
-*[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129301322-347e48c4-4573-49ac-8a80-26193f453487.png)*
+[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129301322-347e48c4-4573-49ac-8a80-26193f453487.png)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ![](https://user-images.githubusercontent.com/88136823/129301363-13ff30a9-3388-49e2-8240-0acdf802c710.png)
 
-*[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129301363-13ff30a9-3388-49e2-8240-0acdf802c710.png)*
+[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129301363-13ff30a9-3388-49e2-8240-0acdf802c710.png)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ![](https://user-images.githubusercontent.com/88136823/129296874-fdc83f9b-774d-48aa-bb4a-b9353950b6ae.png)
 
-*[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129296874-fdc83f9b-774d-48aa-bb4a-b9353950b6ae.png)*
+[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129296874-fdc83f9b-774d-48aa-bb4a-b9353950b6ae.png)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ![](https://user-images.githubusercontent.com/88136823/129297295-696a0cff-55a5-49d3-90cd-2f1a3f062a91.png)
 
-*[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129297295-696a0cff-55a5-49d3-90cd-2f1a3f062a91.png)*
+[이미지를 크게 보고 싶으시면 눌러주세요~](https://user-images.githubusercontent.com/88136823/129297295-696a0cff-55a5-49d3-90cd-2f1a3f062a91.png)
 
 ## Welcome to 임호 Mobility Pages
 
